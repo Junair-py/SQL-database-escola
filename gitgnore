@@ -1,0 +1,23 @@
+# Ignorar arquivos de banco de dados
+*.sql
+
+# Ignorar arquivos e diretórios padrão
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos e diretórios específicos de IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignorar arquivos de configuração temporários
+*.swp
+*.swo
