@@ -1,0 +1,23 @@
+
+### .gitignore
+
+```plaintext
+# Ignorar arquivos e diretórios padrão
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos específicos de banco de dados
+*.sql
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
